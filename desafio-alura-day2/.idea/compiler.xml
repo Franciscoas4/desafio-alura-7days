@@ -6,8 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="desafio-alura" />
-        <module name="desafio-alura-day1" />
+        <module name="desafio-alura-day2" />
       </profile>
     </annotationProcessing>
   </component>

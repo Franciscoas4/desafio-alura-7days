@@ -1,4 +1,4 @@
-package com.desafio.alurasevendays;
+package com.desafio.desafiodaytwo;
 
 import java.io.IOException;
 import java.net.URI;
@@ -6,7 +6,7 @@ import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
-public class ApplicarionAluraSeven {
+public class ApplicationDesafioAluraDayTwo {
 
     public static void main(String[] args) throws IOException, InterruptedException {
 
